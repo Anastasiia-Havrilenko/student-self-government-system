@@ -60,11 +60,10 @@ The project consists of three main components:
 
 ## Project Structure
 
-```text
 backend/
 telegram-bot/
 desktop-app/
-```
+
 
 ## Author
 
@@ -72,4 +71,3 @@ Anastasiia Havrilenko
 
 Bachelor's Degree in Computer Science
 Sumy State University
-
